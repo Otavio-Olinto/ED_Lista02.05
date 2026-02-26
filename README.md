@@ -8,6 +8,6 @@ Requisitos do projeto:
 
 1. Arquitetura MVC;
 2. O cálculo deve ser realizado por uma função recursiva;
-3. O cáculo deve utilizar a fatoração por número primos;
+3. O cálculo deve utilizar a fatoração por número primos;
 4. Declarar, via comentário, a condição de parada da função.
 ```
